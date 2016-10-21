@@ -1,4 +1,4 @@
-## The-Tech-Academy
+## The Tech Academy
 ***
 
 ### About us
