@@ -22,7 +22,7 @@ The Tech Academy is a licensed career school located in Portland, Oregon where s
 
 Learn more about [The Tech Academy](https://www.learncodinganywhere.com/) on our website.
 
-#### Location and Contact Info: 
+#### Location and Contact Info
 
 310 SW 4th Avenue Suite 412
 Portland, Oregon 97204
