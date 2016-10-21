@@ -27,4 +27,8 @@ Learn more about [The Tech Academy](https://www.learncodinganywhere.com/) on our
 310 SW 4th Avenue Suite 412
 Portland, Oregon 97204
 503.206.6915
-info@learncodinganywhere.com 
+info@learncodinganywhere.com
+
+
+
+
